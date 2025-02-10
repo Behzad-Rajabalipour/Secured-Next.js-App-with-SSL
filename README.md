@@ -72,9 +72,6 @@ const port = 20000;  // your wanted port
 ```
 
 
-
-- [@fariborz0015](https://www.github.com/fariborz0015)
-
  
 
 
