@@ -80,10 +80,6 @@ For any questions or inquiries, please reach out to the project maintainer:
 
 
 
-Feel free to open an issue on GitHub if you encounter any problems or have suggestions for improvement.
-
-Happy coding! 👨‍💻
-## Authors
 
 - [@fariborz0015](https://www.github.com/fariborz0015)
 
