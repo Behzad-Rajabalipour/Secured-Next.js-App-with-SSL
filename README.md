@@ -72,14 +72,6 @@ const port = 20000;  // your wanted port
 ```
 
 
-## Contact
-For any questions or inquiries, please reach out to the project maintainer:
-
- [![MIT License](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fariborz0015@gmail.com)
- [![MIT License](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fariborzjs)
-
-
-
 
 - [@fariborz0015](https://www.github.com/fariborz0015)
 
